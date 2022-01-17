@@ -40,7 +40,7 @@ export default class MetaplexDocument extends Document {
             href="/favicon-16x16.png"
           />
           <meta name="theme-color" content="#000000" />
-          <meta name="description" content="Metaplex NFT Marketplace" />
+          <meta name="description" content="Art token powered by Metaplex" />
           <link rel="manifest" href="/manifest.json" />
           <link
             rel="stylesheet"
